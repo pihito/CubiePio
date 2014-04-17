@@ -1,0 +1,1 @@
+/usr/bin/gcc  -g    CMakeFiles/pio.dir/pio.o  -o pio -rdynamic 
